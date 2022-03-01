@@ -13,13 +13,13 @@ Design Pattern Lab to practice my design pattern implement on OOP.
 - [Lab03: Composite & Strategy](https://github.com/lebrancconvas/Design-Pattern-Laboratory/tree/master/Lab03)
   - [Composite Pattern](https://github.com/lebrancconvas/Design-Pattern-Laboratory/blob/master/Lab03/src/Composite.java)
   - [Strategy Pattern](https://github.com/lebrancconvas/Design-Pattern-Laboratory/blob/master/Lab03/src/Strategy.java)
-- Lab04: Decorator & Abstract Factory
+- [Lab04: Decorator & Abstract Factory](https://github.com/lebrancconvas/Design-Pattern-Laboratory/tree/master/Lab04)
   - Decorator Pattern
   - Abstract Factory Pattern
-- Lab05: Bridge & Command
+- [Lab05: Bridge & Command](https://github.com/lebrancconvas/Design-Pattern-Laboratory/tree/master/Lab05)
   - Bridge Pattern
   - Command Pattern
-- Lab06: Memento, Prototype, and Singleton
+- [Lab06: Memento, Prototype, and Singleton](https://github.com/lebrancconvas/Design-Pattern-Laboratory/tree/master/Lab06)
   - Memento Pattern
   - Prototype Pattern
   - Singleton Pattern
