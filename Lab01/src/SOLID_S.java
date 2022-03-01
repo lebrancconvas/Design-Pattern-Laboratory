@@ -32,7 +32,7 @@ class Persistence
         {
             try(PrintStream out = new PrintStream(filename))
             {
-                out.println(toString());
+                out.println(journal.toString());
             }
         }
     }
@@ -52,6 +52,5 @@ class Solid_S
         String fileextension = "txt";
         String filename = filenamewithoutextension + "." + fileextension;
         persistence.saveToFile(xoxojournal, filename, true);
-
     }
 }
