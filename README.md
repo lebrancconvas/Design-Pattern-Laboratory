@@ -4,6 +4,10 @@
 
 Design Pattern Lab to practice my design pattern implement on OOP.
 
+## E-Books
+
+- [EN: Design Patterns: Elements of Reuseable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissdes](http://www.javier8a.com/itc/bd1/articulo.pdf)
+
 ## List
 
 - ### [Lab01: SOLID Design (Part 1 - S, O)](https://github.com/lebrancconvas/Design-Pattern-Laboratory/tree/master/Lab01)
