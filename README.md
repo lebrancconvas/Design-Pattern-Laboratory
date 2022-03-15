@@ -47,3 +47,8 @@ Design Pattern Lab to practice my design pattern implement on OOP.
   - [Builder Pattern](https://github.com/lebrancconvas/Design-Pattern-Laboratory/blob/master/Lab07/src/Builder.java)
   - [Iterator Pattern](https://github.com/lebrancconvas/Design-Pattern-Laboratory/blob/master/Lab07/src/Iterator.java)
   - [Chain of Responsibilities Pattern](https://github.com/lebrancconvas/Design-Pattern-Laboratory/blob/master/Lab07/src/CoR.java)
+
+- ### [Lab08: Interpreter and Visitor](https://github.com/lebrancconvas/Design-Pattern-Laboratory/tree/master/Lab08)
+  
+  - [Interpreter Pattern](https://github.com/lebrancconvas/Design-Pattern-Laboratory/blob/master/Lab08/src/Interpreter.java)
+  - [Visitor Pattern](https://github.com/lebrancconvas/Design-Pattern-Laboratory/blob/master/Lab08/src/Visitor.java)
